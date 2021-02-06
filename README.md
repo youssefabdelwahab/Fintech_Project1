@@ -6,8 +6,8 @@ This project has been created by Youssef Abdelwahab , Carla Herrera , Vinay Anup
 •	Motivation & Summary
 
 Recent events of covid have drastically changed society and the economy affecting employment, mobility and consumer habits. Our goal is to review these effects on the retail sector, by choosing a diverse set of companies and reviewing their stock price data and financial performance . 
-![Drag Racing](Cor)
-(INSERT PIC HERE)
+![Coronavirus_and_economy](resources/Coronavirus_and_economy.jpg)
+
 
 •	Define the core message or hypothesis of your project.
 
